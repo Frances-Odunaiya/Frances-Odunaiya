@@ -4,7 +4,7 @@
 **Rola01/Rola01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <video width="320" height="240" controls>
-  <source src="Welcome to my Repo Cover.mp4" type="video/mp4">
+  <source src="/Welcome to my Repo Cover.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
