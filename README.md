@@ -1,18 +1,19 @@
 ### Hi there 👋, My name is Rola
 
+<img src="./personalFolder/Welcome to Our Classroom Google Header.jpg"alt="Introduction to my page">
+
 <!--
 **Rola01/Rola01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<img src="/Welcome to my Repo Cover.gif"alt="Introduction to my page">
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+I am a Software Engineer. I am a robotics process automation developer.
+I am passionate about #creativity #building bots #automating workflows #building and designing webpages. #visibility #successful web developer #career switch
+
+- 🔭 I’m currently working with JavaScript, Python, C and the MERN stack.
+- 🌱 I’m currently learning on #THE ODIN PROJECT.
+- 👯 I’m looking to collaborate on MERN STACK Development Projects.
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about [here](https://github.com/Rola01/Rola01/issues)
+
+
