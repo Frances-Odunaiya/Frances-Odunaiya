@@ -3,7 +3,10 @@
 <!--
 **Rola01/Rola01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<video src="/Welcome to my Repo Cover.mp4"alt="Introduction to Rola's Webpage">
+<video width="320" height="240" controls>
+  <source src="Welcome to my Repo Cover.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 Here are some ideas to get you started:
 
