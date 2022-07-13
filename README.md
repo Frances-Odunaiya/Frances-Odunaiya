@@ -2,14 +2,17 @@
 
 <p style="color:orange;">...feel free to connect</p>
 
-<img src="PersonalFolder/Welcome-to-my-Repo-Cover.gif" alt="Introduction to my page">
+<img src="PersonalFolder/New Cover page.jpg" alt="Introduction to my page">
 
 <!--
 **Rola01/Rola01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
 
-I am a Software Engineer. I am a robotics process automation developer.
+I am a Software Engineer with 2 years of experience in robotics and automation software development.
+I am currently working on ALX Africa team projects to improve team productivity and collaborations and gain experience.
+I am currently on the ALX-T fullstack development Nanodegree program.
+My goal is to be equipped with the right skill set required to excel as a full stack developer and also build my team work, team management and skills.
 I am passionate about #creativity #building bots #automating workflows #building and designing webpages. #visibility #successful web developer #career switch
 
 - 🔭 I’m currently working with JavaScript, Python, C and the MERN stack.
