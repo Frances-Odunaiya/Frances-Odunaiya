@@ -1,6 +1,6 @@
 # Hi there 👋, My name is Rola
 
-<img src="/personalFolder/Welcome to Our Classroom Google Header.jpg" alt="Introduction to my page">
+<img src="Rola01/personalFolder/Welcome to Our Classroom Google Header.jpg" alt="Introduction to my page">
 
 <!--
 **Rola01/Rola01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
