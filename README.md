@@ -1,6 +1,6 @@
 # Hi there 👋, My name is Rola
 
-<marquee>...feel free to connect</marquee>
+<p style="color:orange">...feel free to connect</p>
 
 <img src="PersonalFolder/Welcome-to-my-Repo-Cover.gif" alt="Introduction to my page">
 
