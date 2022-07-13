@@ -1,5 +1,11 @@
 # Hi there 👋, My name is Rola
 
+<marquee direction="right" 
+        behavior="alternate" 
+        style="color:orange">
+        ...feel free to connect
+    </marquee>
+
 <img src="PersonalFolder/Welcome-to-my-Repo-Cover.gif" alt="Introduction to my page">
 
 <!--
