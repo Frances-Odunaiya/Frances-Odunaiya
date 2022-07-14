@@ -1,6 +1,7 @@
 # Hi there 👋, My name is Rola
 
-<p style="color:orange;">...feel free to connect</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=....+Feel+free+to+connect!;Thank+you+.)](https://git.io/typing-svg)
+
 
 <img src="PersonalFolder/New Cover page.jpg" alt="Introduction to my page">
 
