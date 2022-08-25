@@ -20,6 +20,7 @@ I am passionate about #creativity #building bots #automating workflows #building
 - 🌱 I’m currently learning on #THE ODIN PROJECT.
 - 👯 I’m looking to collaborate on MERN STACK Development Projects.
 - 💬 Ask me about [here](https://github.com/Rola01/Rola01/issues)
+- 👯 MY Resume lies [here](https://https://app.flowcv.com/resume/content)
 
 
 <br />
