@@ -12,11 +12,11 @@
 
 # About Me:
 
-💻 Software Developer: Crafting code to bring ideas to life.
-📊 Data Analyst: Unraveling insights from complex datasets.
-📈 Business Intelligence Analyst: Turning data into actionable strategies.
-🕵️ Business Analyst: Bridging the gap between technology and business needs.
-🌱 Health Enthusiast: Balancing bytes and bites for a holistic approach to life.
+- 💻 Software Developer: Crafting code to bring ideas to life.
+- 📊 Data Analyst: Unraveling insights from complex datasets.
+- 📈 Business Intelligence Analyst: Turning data into actionable strategies.
+- 🕵️ Business Analyst: Bridging the gap between technology and business needs.
+- 🌱 Health Enthusiast: Balancing bytes and bites for a holistic approach to life.
 
 # What to Expect:
 Here, you'll discover a fusion of my technical expertise and my commitment to well-being. Whether it's lines of code, insights from data, or reflections on business and health, each project reflects my dedication to excellence and innovation.
@@ -24,10 +24,10 @@ Here, you'll discover a fusion of my technical expertise and my commitment to we
 - 👯 MY Resume lies [here](https://app.flowcv.com/resume/content)
 
 # Let's Connect:
-I believe in the power of collaboration and learning from one another. 
-Feel free to explore my repositories, share your thoughts, and let's build something incredible together. 
+- I believe in the power of collaboration and learning from one another. 
+- Feel free to explore my repositories, share your thoughts, and let's build something incredible together. 
 
-If you have questions, ideas, or just want to chat, don't hesitate to reach out.
+- If you have questions, ideas, or just want to chat, don't hesitate to reach out.
 
 Thank you for stopping by! 🌟
 
@@ -39,25 +39,20 @@ Rola 🚀
 
 
 
-<code><img height="30" 
-src="https://github.com/github/explore/blob/main/topics/html/html.png"></code>
-<code><img height="30"
-src="https://github.com/github/explore/blob/main/topics/markdown/markdown.png"></code>
+<code><img height="30" src="https://github.com/github/explore/blob/main/topics/html/html.png"></code>
+<code><img height="30" src="https://github.com/github/explore/blob/main/topics/markdown/markdown.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/css/css.png"></code>
-<code><img height="30" 
-src="https://github.com/github/explore/blob/main/topics/sass/sass.png"></code>
+<code><img height="30" src="https://github.com/github/explore/blob/main/topics/sass/sass.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/bootstrap/bootstrap.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/python/python.png"></code>
-<code><img height="30" src="https://github.com/github/explore/blob/main/topics/R/R.png"></code>
+<code><img height="30" src="https://github.com/github/explore/blob/main/topics/r/r.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/scala/scala.png"></code>
-<code><img height="30" src="https://github.com/github/explore/blob/main/topics/jira/jira.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/c/c.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/csharp/csharp.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/mongodb/mongodb.png"></code>
-<code><img height="30" 
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>>
 
 
 
@@ -68,6 +63,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <br />
 <br />
 
-<a href="https://twitter.com/jhenrholar">
-  <img align="right" alt="Frances Odunaiya | Twitter" width="21px" src="https://github.com/github/explore/blob/main/topics/twitter/twitter.png" />
+<a href="https://www.linkedin.com/in/frances-odunaiya">
+  <img align="right" alt="Frances Odunaiya | Linkedin" width="21px" src="https://github.com/github/explore/blob/main/topics/twitter/twitter.png" />
 </a>
