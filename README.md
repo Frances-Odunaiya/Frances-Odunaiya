@@ -64,5 +64,5 @@ Rola 🚀
 <br />
 
 <a href="https://www.linkedin.com/in/frances-odunaiya">
-  <img align="right" alt="Frances Odunaiya | Linkedin" width="21px" src="https://github.com/github/explore/blob/main/topics/twitter/twitter.png" />
+  <img align="right" alt="Frances Odunaiya | Linkedin" width="21px" src="PersonalFolder/linked in logo.png" />
 </a>
