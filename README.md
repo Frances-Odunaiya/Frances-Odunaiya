@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=....+Feel+free+to+connect!;Thank+you+.)](https://git.io/typing-svg)
 
 
-<img src="PersonalFolder/Latest banner.jpg" alt="Introduction to my page">
+<img src="PersonalFolder/My Cover Page2.jpg" alt="Introduction to my page">
 
 <!--
 **Rola01/Rola01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
