@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=....+Feel+free+to+connect!;Thank+you+.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=....+Feel+free+to+connect!)](https://git.io/typing-svg)
 
 
 <img src="PersonalFolder/My Cover Page2.jpg" alt="Introduction to my page">
@@ -55,7 +55,7 @@ Rola 🚀
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/sql/sql.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/postman/postman.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/postgresql/postgresql.png"></code>
-<code><img height="30" src="https://github.com/github/explore/blob/main/topics/database/database.png"></code>>
+<code><img height="30" src="https://github.com/github/explore/blob/main/topics/database/database.png"></code>
 
 | <a href="https://github.com/Rola01/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Rola01&show_icons=true&include_all_commits=true&theme=dark&count_private=true&hide_border=true&border_radius=2&hide=stars" alt="Frances' github stats" /></a> | <a href="https://github.com/Rola01/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rola01&layout=compact&theme=dark&hide_border=true&hide=html,css" /></a> |
 | ------------- | -------------- |
