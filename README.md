@@ -1,4 +1,4 @@
-# Hi there 👋, My name is Rola
+# Hello there! 👋, I'm Frances a.k.a Rola, a passionate and multi-talented individual with a love for all things tech, data, and health. As you explore this corner of the digital world, you'll find a collection of my endeavors in software development, data analysis, business intelligence, and business analysis.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=....+Feel+free+to+connect!;Thank+you+.)](https://git.io/typing-svg)
 
@@ -10,19 +10,29 @@
 
 -->
 
-I am a Software Engineer with 2 years of experience in robotics and automation software development.
-I am currently working on ALX Africa team projects to improve team productivity and collaborations and gain experience.
-I am currently on the ALX-T fullstack development Nanodegree program.
-My goal is to be equipped with the right skill set required to excel as a full stack developer and also build my team work, team management and skills.
-I am passionate about #creativity #building bots #automating workflows #building and designing webpages. #visibility #successful web developer #career switch
+# About Me:
 
-- 🔭 I’m currently working with JavaScript, Python, C and the MERN stack.
-- 🌱 I’m currently learning on #THE ODIN PROJECT.
-- 👯 I’m looking to collaborate on MERN STACK Development Projects.
+💻 Software Developer: Crafting code to bring ideas to life.
+📊 Data Analyst: Unraveling insights from complex datasets.
+📈 Business Intelligence Analyst: Turning data into actionable strategies.
+🕵️ Business Analyst: Bridging the gap between technology and business needs.
+🌱 Health Enthusiast: Balancing bytes and bites for a holistic approach to life.
+
+# What to Expect:
+Here, you'll discover a fusion of my technical expertise and my commitment to well-being. Whether it's lines of code, insights from data, or reflections on business and health, each project reflects my dedication to excellence and innovation.
 - 💬 Ask me about [here](https://github.com/Rola01/Rola01/issues)
 - 👯 MY Resume lies [here](https://app.flowcv.com/resume/content)
 
+# Let's Connect:
+I believe in the power of collaboration and learning from one another. 
+Feel free to explore my repositories, share your thoughts, and let's build something incredible together. 
 
+If you have questions, ideas, or just want to chat, don't hesitate to reach out.
+
+Thank you for stopping by! 🌟
+
+Happy coding and stay healthy,
+Rola 🚀
 <br />
 
 #### Languages and Tools:
@@ -39,6 +49,9 @@ src="https://github.com/github/explore/blob/main/topics/sass/sass.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/bootstrap/bootstrap.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/python/python.png"></code>
+<code><img height="30" src="https://github.com/github/explore/blob/main/topics/R/R.png"></code>
+<code><img height="30" src="https://github.com/github/explore/blob/main/topics/scala/scala.png"></code>
+<code><img height="30" src="https://github.com/github/explore/blob/main/topics/jira/jira.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/c/c.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/csharp/csharp.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
