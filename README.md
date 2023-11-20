@@ -51,11 +51,11 @@ Rola 🚀
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/scala/scala.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/c/c.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/csharp/csharp.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/sql/sql.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/postman/postman.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/postgresql/postgresql.png"></code>
-<code><img height="30" src="https://github.com/github/explore/blob/main/topics/database/database.png"></code>
+<code><img height="30" src="https://github.com/github/explore/blob/main/topics/database/database.png"></code>>
 
 | <a href="https://github.com/Rola01/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Rola01&show_icons=true&include_all_commits=true&theme=dark&count_private=true&hide_border=true&border_radius=2&hide=stars" alt="Frances' github stats" /></a> | <a href="https://github.com/Rola01/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rola01&layout=compact&theme=dark&hide_border=true&hide=html,css" /></a> |
 | ------------- | -------------- |
