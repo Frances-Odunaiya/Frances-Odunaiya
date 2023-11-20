@@ -1,6 +1,4 @@
-# Hello there! 👋, I'm Frances also known as Rola.
-## I am passionate and multi-talented with a love for all things tech, data, and health. 
-### As you explore this corner of the digital world, you'll find a collection of my endeavors in software development, data analysis, business intelligence, and business analysis.
+# Hello there! 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=....+Feel+free+to+connect!;Thank+you+.)](https://git.io/typing-svg)
 
@@ -11,6 +9,9 @@
 **Rola01/Rola01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
+# I'm Frances also known as Rola.
+## I am passionate and multi-talented with a love for all things tech, data, and health. 
+### As you explore this corner of the digital world, you'll find a collection of my endeavors in software development, data analysis, business intelligence, and business analysis.
 
 # About Me:
 
