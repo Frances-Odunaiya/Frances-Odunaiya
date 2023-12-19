@@ -23,7 +23,7 @@
 # What to Expect:
 Here, you'll discover a fusion of my technical expertise and my commitment to well-being. Whether it's lines of code, insights from data, or reflections on business and health, each project reflects my dedication to excellence and innovation.
 - 💬 Ask me about [here](https://github.com/Frances-Odunaiya/Frances-Odunaiya/issues)
-- 👯 MY Resume lies [here]([https://app.flowcv.com/resume/content](https://frances-odunaiya.github.io/Online_Resume/))
+- 👯 MY Resume lies [here]([https://app.flowcv.com/resume/content](https://frances-odunaiya.github.io/Online_Resume/)
 
 # Let's Connect:
 - I believe in the power of collaboration and learning from one another. 
