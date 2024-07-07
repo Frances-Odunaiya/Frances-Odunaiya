@@ -14,11 +14,11 @@
 
 # About Me:
 
-- 💻 Software Developer: Crafting code to bring ideas to life.
+- 💻 Process Automation Developer: Streamlining Workflows and Enhancing Efficiency Through Automation.
 - 📊 Data Analyst: Unraveling insights from complex datasets.
 - 📈 Business Intelligence Analyst: Turning data into actionable strategies.
 - 🕵️ Business Analyst: Bridging the gap between technology and business needs.
-- 🌱 Health Enthusiast: Balancing bytes and bites for a holistic approach to life.
+- 🌱 Health Enthusiast: Championing Wellness and Vitality Through Informed Choices.
 
 # What to Expect:
 Here, you'll discover a fusion of my technical expertise and my commitment to well-being. Whether it's lines of code, insights from data, or reflections on business and health, each project reflects my dedication to excellence and innovation.
