@@ -2,45 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=....+Feel+free+to+connect!)](https://git.io/typing-svg)
 
-
-<img src="PersonalFolder/header.png" alt="Introduction to my page">
-
-<!--
-**Rola01/Rola01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
--->
-
-### As you explore this corner of the digital world, you'll find a collection of my endeavors in software development, data analysis, business intelligence, and business analysis as I am passionate and multi-talented with a love for all things tech, data, and health. 
-
-# About Me:
-
-- 💻 Process Automation Developer: Streamlining Workflows and Enhancing Efficiency Through Automation.
-- 📊 Data Analyst: Unraveling insights from complex datasets.
-- 📈 Business Intelligence Analyst: Turning data into actionable strategies.
-- 🕵️ Business Analyst: Bridging the gap between technology and business needs.
-- 🌱 Health Enthusiast: Championing Wellness and Vitality Through Informed Choices.
-
-# What to Expect:
-Here, you'll discover a fusion of my technical expertise and my commitment to well-being. Whether it's lines of code, insights from data, or reflections on business and health, each project reflects my dedication to excellence and innovation.
-- 💬 Ask me about anything  [here](https://github.com/Frances-Odunaiya/Frances-Odunaiya/issues)
-- 👯 My Resume can be found [here](https://flowcv.com/resume/6uwdjeusqq)
-
-# Let's Connect:
-- I believe in the power of collaboration and learning from one another. 
-- Feel free to explore my repositories, share your thoughts, and let's build something incredible together. 
-
-- If you have questions, ideas, or just want to chat, don't hesitate to reach out.
-
-Thank you for stopping by! 🌟
-
-Happy coding and stay healthy,
-# Frances 🚀
-<br />
-
 #### Languages and Tools:
-
-
-
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/html/html.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/markdown/markdown.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/css/css.png"></code>
