@@ -1,7 +1,3 @@
-# Hello there! 👋
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=....+Feel+free+to+connect!)](https://git.io/typing-svg)
-
 #### Languages and Tools:
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/html/html.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/markdown/markdown.png"></code>
